@@ -1,0 +1,21 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form {
+  text-align: center;
+  background-color: #fff;
+  padding: 5%;
+}
+.card-block {
+  flex-basis: 33%;
+}
+.vehicle-results {
+  background-color: #bdc3c7;
+  display: flex;
+  flex-wrap: wrap;
+}
